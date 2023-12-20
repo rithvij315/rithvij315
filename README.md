@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi, I'm Rithvij!
 
+### I'm an aspiring Software Engineer at UC Irvine studying Computer Science.
+I have previous Software Enginnering Intern experience at multiple companies and I've gained many important skills through these opportunities as well as various projects I have worked on, including: Python, Java, C++, HTML/CSS, JavaScript, SQL, ReactJS, SCSS/Sass, TensorFlow, Docker, AWS, and more. Feel free to reach out to me with any inquiries.
+
+### Some of my favorite projects are pinned below, feel free to take a look!
 <!--
 **rithvij315/rithvij315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
