@@ -1,7 +1,7 @@
 ## Hi, I'm Rithvij!
 
 ### I'm an aspiring Software Engineer at UC Irvine studying Computer Science.
-I have previous Software Enginnering Intern experience at multiple companies and I've gained many important skills through these opportunities as well as various projects I have worked on, including: Python, Java, C++, HTML/CSS, JavaScript, SQL, ReactJS, SCSS/Sass, TensorFlow, Docker, AWS, and more. Feel free to reach out to me with any inquiries.
+I have previous Software Enginnering Intern experience at multiple companies and I've gained many important skills through these opportunities as well as various projects I have worked on, including: Python, Java, C, C++, HTML/CSS, JavaScript, SQL, ReactJS, TensorFlow, Docker, AWS, and more. Feel free to reach out to me with any inquiries.
 
 ### Some of my favorite projects are pinned below, feel free to take a look!
 <!--
